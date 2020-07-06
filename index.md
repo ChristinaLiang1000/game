@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Game
 
-You can use the [editor on GitHub](https://github.com/ChristinaLiang1000/game/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###### by $ChristinaLiang1000$
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+### Rules
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Each gamer chooses a number from $1$ - $10000$.
 
-```markdown
-Syntax highlighted code block
+2. Each gamer take the square root of their number. If their number does not have a whole root, take the nearest square number to their number and use the square root of that number. That square root will replace their picked number as the second number.
 
-# Header 1
-## Header 2
-### Header 3
+3. A random number is compared to each player's second number. (The link for the random number generator will be put in the last section)
 
-- Bulleted
-- List
+4. Players whose numbers are bigger than the random one add $10$ points to their score, while players who have smaller numbers get minus $10$.
 
-1. Numbered
-2. List
+5. Those who get the most scores after 10 times of play win this round.
 
-**Bold** and _Italic_ and `Code` text
+Note: Players start with a score of 50.
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Leaderboards
 
-### Jekyll Themes
+1. $EavanCai$ from China, score $140$
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChristinaLiang1000/game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### Help
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>Contact $ChristinaLiang1000$ for help.
+>
+>The link for the random number generator:
